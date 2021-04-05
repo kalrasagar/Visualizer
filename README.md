@@ -18,7 +18,9 @@ It will give you a path between start node and end one
 # What you need to run this 
 
 # Software:-
-# 1. Pycharm
+# 1. IDLE
+# 2. Google Collab
+# 3. Jupyter Notebook
 
 # Library:-
 # 1. Pygame(mainly this library is used)
